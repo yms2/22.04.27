@@ -1,0 +1,198 @@
+#wrap{width: 1680px;}
+
+#header{float: left;
+    width: 1680px;
+    height: 1120px;
+    background-image: url(../images/flower_01.jpg);}
+#top_h .txt{
+    float: left;
+    width: 112px;
+    height: 112px;
+    background-image:url(../images/logo.png);
+    margin: 72px 0 0 72px;
+}
+#top_h .nav{
+    float: right;
+    width: 143px;
+    height: 253px;
+    margin: 66px 63px 0 0;
+}
+#top_h .nav ul{
+    text-align: right;
+    padding-bottom: 30px;
+}
+#top_h .nav li{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+#top_h .nav a{
+    color: white;
+}
+#top_h .main{
+    float: left;
+    margin: 0 auto;
+    width: 1600px;
+    height: 544px;
+    margin:82px 0 0 40px;
+    position: absolute;
+    border: 7px solid rgb(194, 215, 125);
+    margin-top: 400px;
+}
+#top_h .main_b{
+    float: right;
+    margin: 52px 93px 0 0;
+    width:550px;height: 440px;
+}
+#top_h .main ul{
+
+}
+#top_h .main .txt1{
+    font-size: 90px;
+    color: white;
+}
+#top_h .main .txt2{
+    font-size: 50px;
+    color: khaki;
+}
+#top_h .main .txt3{
+    font-size: 20px;
+    margin-top: 15px;
+    color: white;
+}
+
+/* 콘텐츠 */
+
+#contents{
+    float: left;
+    width: 1680px;
+    height: 1050px;
+}
+#contents .con_h{
+    float: left;
+    width: 1680px;
+    height: 250px;
+}
+#contents .con_h ul{
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 644px;height: 110px;
+}
+#contents .con_h li{
+    float: left;
+    margin-right: 93px;
+}
+#contents .con_h .special{
+    margin-bottom: 20px;
+    border-bottom: 9px solid rgb(180, 193, 121);
+}
+#contents .con_h a{
+    font-size: 30px;
+    line-height: 110px;
+    text-align: center;
+}
+#contents .con_h li:last-child{margin-right: 0;}
+#contents .con_m{
+    float: left;
+    width: 1680px; height: 640px;
+    background-image: url(../images/sldie_01.jpg);
+}
+#contents .con_b{
+    float: left;
+    width: 1680px;height: 160px;
+}
+#contents .con_b ul{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 190px;height: 45px;
+}
+#contents .con_b li{
+    float: left;
+    margin-right:15px;
+}
+#contents .com_b li:last-child{margin-right: 0;}
+
+#contents .con_2{
+    float: left;
+    width: 1680px; height: 1115px;
+    background-color: #E4E4E4;
+}
+#contents .com2_h{
+    margin: 0 auto;
+    margin-top: 80px;
+    width: 1600px; height: 485px;
+    background-color:rgba(43, 233, 160, 0.631)
+}
+#contents .com2_h p{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 160px;
+    border: 5px solid white;
+    height: 150px;width: 950px;
+    line-height: 150px;
+    text-align: center;
+    font-size: 80px;color: white;
+}
+#contents .com2_m{
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 1600px; height: 460px;
+}
+#contents .com2_m .left{
+    float: left;
+    width: 880px; height: 460px;
+    background-image: url(../images/flower_05.jpg);
+}
+#contents .com2_m .right1{
+    float: right;
+    width: 705px; height: 225px;
+    background-image: url(../images/flower_10.jpg);
+}
+#contents .com2_m .right2{
+    float: right;
+    margin-top: 10px;
+    width: 705px; height: 225px;
+    background-image: url(../images/flower_13.jpg);
+}
+#contents .right2 p{
+    float: left;
+    text-align: center;
+    margin: 60px 0 0 210px;
+    font-size: 40px;
+    color: white;
+    border-bottom: 9px solid white;
+    padding-bottom: 20px;
+    }
+#contents .com2_b{
+    float: left;
+    margin-top: 80px;
+    width: 1680px; height:478px ;
+    background-color: white
+}
+#contents .com2_b .txt1{
+    text-align: center;
+    margin-top: 55px;
+    font-size: 40px;
+    color: #555;
+} 
+#contents .com2_b .txt2{
+    margin-top:52px;
+    text-align: center;
+    font-size: 25px;
+    color: #555;
+}
+#contents .com2_b .txt3{
+    margin-top: 55px;
+    text-align: center;
+}
+#bottom{
+    width: 1680px;
+    height: 80px;
+    background-color: #555;
+}
+#bottom p{
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+    line-height:80px;
+    font-size: 16px;
+}
